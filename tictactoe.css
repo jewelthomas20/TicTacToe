@@ -1,0 +1,56 @@
+*{margin: 0;
+background-color: black;
+}
+td{
+    height: 130px;
+    width: 130px;
+    font-size: 100px;
+    text-align: center;
+    color: whitesmoke;
+    border: 5px solid white;
+    cursor: pointer;
+}
+table{
+    margin: 50px auto;
+
+}
+div,h1{
+    padding: 5px;
+    color: white;
+    text-align: center;
+    background-color: cadetblue;
+    margin: 0   0  10px 0;
+    font-size: 2em;
+}
+#b{
+    margin-left:22em;
+    background-color: whitesmoke;
+    color: black;
+    left:600px;
+    border-radius: 10%;
+    font-size: 2em;
+    padding: 0.5em;
+    cursor: pointer;
+}
+#b:hover{
+    background-color: gold;
+    color: whitesmoke;
+
+}
+.reset{
+    margin-top: 10em;
+}
+h3{font-size: 3em;
+    display: none;
+    color: white;
+    position: absolute;
+    top:2.5em;
+    left: 14em;
+}
+h2{font-size: 4.5em;
+    display: none;
+    color: white;
+    position: absolute;
+    top:3.5em;
+    left: 6em;
+}
